@@ -26,7 +26,7 @@ Then solder your antenna to the pin labled "ANT", and you're done! As always: ch
 
 **Addition:** I noticed that using a dipole antenna greatly increases the range and reliability of your system. To create such an antenna just cut another piece of wire to the quarter of the wavelength and solder it to one of the ground pads of the RF module.
 ### Step 4: Testing
-Flash the Arduino sketch to your board using the Serial adapter. Open the serial monitor and make sure that the gateway starts up correctly (The [MySensors log parser](https://www.mysensors.org/build/parser) might be helpful.
+Flash the Arduino sketch to your board using the Serial adapter. Open the serial monitor and make sure that the gateway starts up correctly (the [MySensors log parser](https://www.mysensors.org/build/parser might be helpful).
 ### Step 5: Printing the case
 Download the provided STL files for the case, place the bottom part next to the top part in your slicer and print them using a 3D printer. I've used my Prusa MK3, silver and blue PLA filament and 0.15mm layer height.
 

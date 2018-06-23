@@ -30,7 +30,7 @@ Flash the Arduino sketch to your board using the Serial adapter. Open the serial
 ### Step 5: Printing the case
 Download the provided STL files for the case, place the bottom part next to the top part in your slicer and print them using a 3D printer. I've used my Prusa MK3, silver and blue PLA filament and 0.15mm layer height.
 
-To get the cool 2-color look you can use Joe Prusas ColorPrint tool ([https://www.prusaprinters.org/color-print/](https://www.prusaprinters.org/color-print/)) and add a color change at 0.5 mm. Start the print with the colorful filament (in my case blue). The printer will print the first two layers and then ask you to change the filament. Now load white or light grey filament and continue the print.
+To get the cool 2-color look you can use Joe Prusas ColorPrint tool ([https://www.prusaprinters.org/color-print/](https://www.prusaprinters.org/color-print/)) and add a color change at 0.5 mm. Start the print with the colorful filament (in my case blue). The printer will print the first two layers and then ask you to change the filament. Now load the other color and continue the print.
 ### Step 6: Putting it all together
 Put the top piece upside down on your table. Then insert the PCB (make sure buttons, LED and the mounting holes line up withe the case) and mount it using two self-tapping screws. Place your Raspberry Pi in the bottom part and screw it down as well. The antenna cables can be secured using hot glue.
 Now you can put the top part onto the bottom. Make sure that the male headers of the Pi slide into the female ones of the board and close the case using 4 screws.
